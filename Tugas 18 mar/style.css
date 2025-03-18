@@ -1,0 +1,36 @@
+
+body {
+    width: 1024px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+div { 
+    border: 1px solid;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+#header {
+    height: 100px;
+    position: fixed;
+    top: 0;
+    width: 1024px;
+    background-color: antiquewhite;
+
+}
+
+#atas {
+    height: 750px;
+    padding-top: 100px;
+
+}
+
+#bawah {
+    height: 750px;
+
+}
+
+#footer {
+    height: 500px;
+
+}
